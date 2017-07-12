@@ -1,0 +1,254 @@
++AFs-EditorLayouts+AF0-
+NullLayout+AD0-(+AFw-
+	+ACI-Type+ACI-: +ACI-Layout+ACI-,+AFw-
+	+ACI-Name+ACI-: +ACI-NullLayout+ACI-,+AFw-
+	+ACI-PrimaryAreaIndex+ACI-: 0,+AFw-
+	+ACI-Areas+ACI-: +AFsAXA-
+		(+AFw-
+			+ACI-SizeCoefficient+ACI-: 1,+AFw-
+			+ACI-Type+ACI-: +ACI-Area+ACI-,+AFw-
+			+ACI-Orientation+ACI-: +ACI-Orient+AF8-Horizontal+ACI-,+AFw-
+			+ACI-WindowPlacement+ACI-: +ACI-Placement+AF8-NoWindow+ACI-,+AFw-
+			+ACI-Nodes+ACI-: +AFsAXQBc-
+		)+AFw-
+	+AF0AXA-
+)
+WidgetBlueprintEditor+AF8-Designer+AF8-Layout+AF8-v4+AF8-1+AD0-(+AFw-
+	+ACI-Type+ACI-: +ACI-Layout+ACI-,+AFw-
+	+ACI-Name+ACI-: +ACI-WidgetBlueprintEditor+AF8-Designer+AF8-Layout+AF8-v4+AF8-1+ACI-,+AFw-
+	+ACI-PrimaryAreaIndex+ACI-: 0,+AFw-
+	+ACI-Areas+ACI-: +AFsAXA-
+		(+AFw-
+			+ACI-SizeCoefficient+ACI-: 1,+AFw-
+			+ACI-Type+ACI-: +ACI-Area+ACI-,+AFw-
+			+ACI-Orientation+ACI-: +ACI-Orient+AF8-Vertical+ACI-,+AFw-
+			+ACI-WindowPlacement+ACI-: +ACI-Placement+AF8-NoWindow+ACI-,+AFw-
+			+ACI-Nodes+ACI-: +AFsAXA-
+				(+AFw-
+					+ACI-SizeCoefficient+ACI-: 0.20000000298023224,+AFw-
+					+ACI-Type+ACI-: +ACI-Stack+ACI-,+AFw-
+					+ACI-HideTabWell+ACI-: true,+AFw-
+					+ACI-ForegroundTab+ACI-: +ACI-AssetEditorToolkit+AF8-Toolbar+ACI-,+AFw-
+					+ACI-Tabs+ACI-: +AFsAXA-
+						(+AFw-
+							+ACI-TabId+ACI-: +ACI-AssetEditorToolkit+AF8-Toolbar+ACI-,+AFw-
+							+ACI-TabState+ACI-: +ACI-OpenedTab+ACIAXA-
+						)+AFw-
+					+AF0AXA-
+				),+AFw-
+				(+AFw-
+					+ACI-SizeCoefficient+ACI-: 0.69999998807907104,+AFw-
+					+ACI-Type+ACI-: +ACI-Splitter+ACI-,+AFw-
+					+ACI-Orientation+ACI-: +ACI-Orient+AF8-Horizontal+ACI-,+AFw-
+					+ACI-Nodes+ACI-: +AFsAXA-
+						(+AFw-
+							+ACI-SizeCoefficient+ACI-: 0.15000000596046448,+AFw-
+							+ACI-Type+ACI-: +ACI-Splitter+ACI-,+AFw-
+							+ACI-Orientation+ACI-: +ACI-Orient+AF8-Vertical+ACI-,+AFw-
+							+ACI-Nodes+ACI-: +AFsAXA-
+								(+AFw-
+									+ACI-SizeCoefficient+ACI-: 0.5,+AFw-
+									+ACI-Type+ACI-: +ACI-Stack+ACI-,+AFw-
+									+ACI-HideTabWell+ACI-: false,+AFw-
+									+ACI-ForegroundTab+ACI-: +ACI-WidgetTemplates+ACI-,+AFw-
+									+ACI-Tabs+ACI-: +AFsAXA-
+										(+AFw-
+											+ACI-TabId+ACI-: +ACI-WidgetTemplates+ACI-,+AFw-
+											+ACI-TabState+ACI-: +ACI-OpenedTab+ACIAXA-
+										)+AFw-
+									+AF0AXA-
+								),+AFw-
+								(+AFw-
+									+ACI-SizeCoefficient+ACI-: 0.5,+AFw-
+									+ACI-Type+ACI-: +ACI-Stack+ACI-,+AFw-
+									+ACI-HideTabWell+ACI-: false,+AFw-
+									+ACI-ForegroundTab+ACI-: +ACI-SlateHierarchy+ACI-,+AFw-
+									+ACI-Tabs+ACI-: +AFsAXA-
+										(+AFw-
+											+ACI-TabId+ACI-: +ACI-SlateHierarchy+ACI-,+AFw-
+											+ACI-TabState+ACI-: +ACI-OpenedTab+ACIAXA-
+										)+AFw-
+									+AF0AXA-
+								)+AFw-
+							+AF0AXA-
+						),+AFw-
+						(+AFw-
+							+ACI-SizeCoefficient+ACI-: 0.62962961196899414,+AFw-
+							+ACI-Type+ACI-: +ACI-Stack+ACI-,+AFw-
+							+ACI-HideTabWell+ACI-: true,+AFw-
+							+ACI-ForegroundTab+ACI-: +ACI-SlatePreview+ACI-,+AFw-
+							+ACI-Tabs+ACI-: +AFsAXA-
+								(+AFw-
+									+ACI-TabId+ACI-: +ACI-SlatePreview+ACI-,+AFw-
+									+ACI-TabState+ACI-: +ACI-OpenedTab+ACIAXA-
+								)+AFw-
+							+AF0AXA-
+						),+AFw-
+						(+AFw-
+							+ACI-SizeCoefficient+ACI-: 0.22037036716938019,+AFw-
+							+ACI-Type+ACI-: +ACI-Stack+ACI-,+AFw-
+							+ACI-HideTabWell+ACI-: false,+AFw-
+							+ACI-ForegroundTab+ACI-: +ACI-WidgetDetails+ACI-,+AFw-
+							+ACI-Tabs+ACI-: +AFsAXA-
+								(+AFw-
+									+ACI-TabId+ACI-: +ACI-WidgetDetails+ACI-,+AFw-
+									+ACI-TabState+ACI-: +ACI-OpenedTab+ACIAXA-
+								)+AFw-
+							+AF0AXA-
+						)+AFw-
+					+AF0AXA-
+				),+AFw-
+				(+AFw-
+					+ACI-SizeCoefficient+ACI-: 0.30000001192092896,+AFw-
+					+ACI-Type+ACI-: +ACI-Splitter+ACI-,+AFw-
+					+ACI-Orientation+ACI-: +ACI-Orient+AF8-Horizontal+ACI-,+AFw-
+					+ACI-Nodes+ACI-: +AFsAXA-
+						(+AFw-
+							+ACI-SizeCoefficient+ACI-: 0.15000000596046448,+AFw-
+							+ACI-Type+ACI-: +ACI-Stack+ACI-,+AFw-
+							+ACI-HideTabWell+ACI-: false,+AFw-
+							+ACI-ForegroundTab+ACI-: +ACI-Animations+ACI-,+AFw-
+							+ACI-Tabs+ACI-: +AFsAXA-
+								(+AFw-
+									+ACI-TabId+ACI-: +ACI-Animations+ACI-,+AFw-
+									+ACI-TabState+ACI-: +ACI-OpenedTab+ACIAXA-
+								)+AFw-
+							+AF0AXA-
+						),+AFw-
+						(+AFw-
+							+ACI-SizeCoefficient+ACI-: 0.85000002384185791,+AFw-
+							+ACI-Type+ACI-: +ACI-Stack+ACI-,+AFw-
+							+ACI-HideTabWell+ACI-: false,+AFw-
+							+ACI-ForegroundTab+ACI-: +ACI-Sequencer+ACI-,+AFw-
+							+ACI-Tabs+ACI-: +AFsAXA-
+								(+AFw-
+									+ACI-TabId+ACI-: +ACI-Sequencer+ACI-,+AFw-
+									+ACI-TabState+ACI-: +ACI-OpenedTab+ACIAXA-
+								),+AFw-
+								(+AFw-
+									+ACI-TabId+ACI-: +ACI-CompilerResults+ACI-,+AFw-
+									+ACI-TabState+ACI-: +ACI-OpenedTab+ACIAXA-
+								)+AFw-
+							+AF0AXA-
+						)+AFw-
+					+AF0AXA-
+				)+AFw-
+			+AF0AXA-
+		)+AFw-
+	+AF0AXA-
+)
+WidgetBlueprintEditor+AF8-Graph+AF8-Layout+AF8-v1+AD0-(+AFw-
+	+ACI-Type+ACI-: +ACI-Layout+ACI-,+AFw-
+	+ACI-Name+ACI-: +ACI-WidgetBlueprintEditor+AF8-Graph+AF8-Layout+AF8-v1+ACI-,+AFw-
+	+ACI-PrimaryAreaIndex+ACI-: 0,+AFw-
+	+ACI-Areas+ACI-: +AFsAXA-
+		(+AFw-
+			+ACI-SizeCoefficient+ACI-: 1,+AFw-
+			+ACI-Type+ACI-: +ACI-Area+ACI-,+AFw-
+			+ACI-Orientation+ACI-: +ACI-Orient+AF8-Vertical+ACI-,+AFw-
+			+ACI-WindowPlacement+ACI-: +ACI-Placement+AF8-NoWindow+ACI-,+AFw-
+			+ACI-Nodes+ACI-: +AFsAXA-
+				(+AFw-
+					+ACI-SizeCoefficient+ACI-: 0.18672099709510803,+AFw-
+					+ACI-Type+ACI-: +ACI-Stack+ACI-,+AFw-
+					+ACI-HideTabWell+ACI-: true,+AFw-
+					+ACI-ForegroundTab+ACI-: +ACI-AssetEditorToolkit+AF8-Toolbar+ACI-,+AFw-
+					+ACI-Tabs+ACI-: +AFsAXA-
+						(+AFw-
+							+ACI-TabId+ACI-: +ACI-AssetEditorToolkit+AF8-Toolbar+ACI-,+AFw-
+							+ACI-TabState+ACI-: +ACI-OpenedTab+ACIAXA-
+						)+AFw-
+					+AF0AXA-
+				),+AFw-
+				(+AFw-
+					+ACI-SizeCoefficient+ACI-: 1,+AFw-
+					+ACI-Type+ACI-: +ACI-Splitter+ACI-,+AFw-
+					+ACI-Orientation+ACI-: +ACI-Orient+AF8-Horizontal+ACI-,+AFw-
+					+ACI-Nodes+ACI-: +AFsAXA-
+						(+AFw-
+							+ACI-SizeCoefficient+ACI-: 0.15000000596046448,+AFw-
+							+ACI-Type+ACI-: +ACI-Splitter+ACI-,+AFw-
+							+ACI-Orientation+ACI-: +ACI-Orient+AF8-Vertical+ACI-,+AFw-
+							+ACI-Nodes+ACI-: +AFsAXA-
+								(+AFw-
+									+ACI-SizeCoefficient+ACI-: 0.5,+AFw-
+									+ACI-Type+ACI-: +ACI-Stack+ACI-,+AFw-
+									+ACI-HideTabWell+ACI-: false,+AFw-
+									+ACI-ForegroundTab+ACI-: +ACI-MyBlueprint+ACI-,+AFw-
+									+ACI-Tabs+ACI-: +AFsAXA-
+										(+AFw-
+											+ACI-TabId+ACI-: +ACI-MyBlueprint+ACI-,+AFw-
+											+ACI-TabState+ACI-: +ACI-OpenedTab+ACIAXA-
+										)+AFw-
+									+AF0AXA-
+								),+AFw-
+								(+AFw-
+									+ACI-SizeCoefficient+ACI-: 0.5,+AFw-
+									+ACI-Type+ACI-: +ACI-Stack+ACI-,+AFw-
+									+ACI-HideTabWell+ACI-: false,+AFw-
+									+ACI-ForegroundTab+ACI-: +ACI-Inspector+ACI-,+AFw-
+									+ACI-Tabs+ACI-: +AFsAXA-
+										(+AFw-
+											+ACI-TabId+ACI-: +ACI-Inspector+ACI-,+AFw-
+											+ACI-TabState+ACI-: +ACI-OpenedTab+ACIAXA-
+										)+AFw-
+									+AF0AXA-
+								)+AFw-
+							+AF0AXA-
+						),+AFw-
+						(+AFw-
+							+ACI-SizeCoefficient+ACI-: 0.69999998807907104,+AFw-
+							+ACI-Type+ACI-: +ACI-Splitter+ACI-,+AFw-
+							+ACI-Orientation+ACI-: +ACI-Orient+AF8-Vertical+ACI-,+AFw-
+							+ACI-Nodes+ACI-: +AFsAXA-
+								(+AFw-
+									+ACI-SizeCoefficient+ACI-: 0.80000001192092896,+AFw-
+									+ACI-Type+ACI-: +ACI-Stack+ACI-,+AFw-
+									+ACI-HideTabWell+ACI-: false,+AFw-
+									+ACI-ForegroundTab+ACI-: +ACI-Document : 10+ACI-,+AFw-
+									+ACI-Tabs+ACI-: +AFsAXA-
+										(+AFw-
+											+ACI-TabId+ACI-: +ACI-Document+ACI-,+AFw-
+											+ACI-TabState+ACI-: +ACI-ClosedTab+ACIAXA-
+										)+AFw-
+									+AF0AXA-
+								),+AFw-
+								(+AFw-
+									+ACI-SizeCoefficient+ACI-: 0.20000000298023224,+AFw-
+									+ACI-Type+ACI-: +ACI-Stack+ACI-,+AFw-
+									+ACI-HideTabWell+ACI-: false,+AFw-
+									+ACI-ForegroundTab+ACI-: +ACI-None+ACI-,+AFw-
+									+ACI-Tabs+ACI-: +AFsAXA-
+										(+AFw-
+											+ACI-TabId+ACI-: +ACI-CompilerResults+ACI-,+AFw-
+											+ACI-TabState+ACI-: +ACI-ClosedTab+ACIAXA-
+										),+AFw-
+										(+AFw-
+											+ACI-TabId+ACI-: +ACI-FindResults+ACI-,+AFw-
+											+ACI-TabState+ACI-: +ACI-ClosedTab+ACIAXA-
+										)+AFw-
+									+AF0AXA-
+								)+AFw-
+							+AF0AXA-
+						),+AFw-
+						(+AFw-
+							+ACI-SizeCoefficient+ACI-: 0.15000000596046448,+AFw-
+							+ACI-Type+ACI-: +ACI-Stack+ACI-,+AFw-
+							+ACI-HideTabWell+ACI-: false,+AFw-
+							+ACI-ForegroundTab+ACI-: +ACI-None+ACI-,+AFw-
+							+ACI-Tabs+ACI-: +AFsAXA-
+								(+AFw-
+									+ACI-TabId+ACI-: +ACI-PaletteList+ACI-,+AFw-
+									+ACI-TabState+ACI-: +ACI-ClosedTab+ACIAXA-
+								)+AFw-
+							+AF0AXA-
+						)+AFw-
+					+AF0AXA-
+				)+AFw-
+			+AF0AXA-
+		)+AFw-
+	+AF0AXA-
+)
+
+
+

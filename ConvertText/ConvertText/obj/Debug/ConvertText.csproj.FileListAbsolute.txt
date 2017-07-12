@@ -1,0 +1,5 @@
+D:\GitRepo\RegularExpression-Repo\ConvertText\ConvertText\bin\Debug\ConvertText.exe.config
+D:\GitRepo\RegularExpression-Repo\ConvertText\ConvertText\bin\Debug\ConvertText.exe
+D:\GitRepo\RegularExpression-Repo\ConvertText\ConvertText\bin\Debug\ConvertText.pdb
+D:\GitRepo\RegularExpression-Repo\ConvertText\ConvertText\obj\Debug\ConvertText.exe
+D:\GitRepo\RegularExpression-Repo\ConvertText\ConvertText\obj\Debug\ConvertText.pdb
