@@ -35,6 +35,7 @@
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.btnSave = new System.Windows.Forms.Button();
+            this.phoneDisplay = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // txtName
@@ -95,11 +96,20 @@
             this.btnSave.UseVisualStyleBackColor = true;
             this.btnSave.Click += new System.EventHandler(this.btnSave_Click);
             // 
+            // phoneDisplay
+            // 
+            this.phoneDisplay.AutoSize = true;
+            this.phoneDisplay.Location = new System.Drawing.Point(103, 187);
+            this.phoneDisplay.Name = "phoneDisplay";
+            this.phoneDisplay.Size = new System.Drawing.Size(0, 13);
+            this.phoneDisplay.TabIndex = 7;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(415, 259);
+            this.Controls.Add(this.phoneDisplay);
             this.Controls.Add(this.btnSave);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
@@ -123,6 +133,7 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Button btnSave;
+        private System.Windows.Forms.Label phoneDisplay;
     }
 }
 
