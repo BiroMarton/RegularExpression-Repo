@@ -1,0 +1,9 @@
+D:\GitRepo\RegularExpression-Repo\RegularExpression\RegularExpression\bin\Debug\RegularExpression.exe.config
+D:\GitRepo\RegularExpression-Repo\RegularExpression\RegularExpression\bin\Debug\RegularExpression.exe
+D:\GitRepo\RegularExpression-Repo\RegularExpression\RegularExpression\bin\Debug\RegularExpression.pdb
+D:\GitRepo\RegularExpression-Repo\RegularExpression\RegularExpression\obj\Debug\RegularExpression.csprojResolveAssemblyReference.cache
+D:\GitRepo\RegularExpression-Repo\RegularExpression\RegularExpression\obj\Debug\RegularExpression.Form1.resources
+D:\GitRepo\RegularExpression-Repo\RegularExpression\RegularExpression\obj\Debug\RegularExpression.Properties.Resources.resources
+D:\GitRepo\RegularExpression-Repo\RegularExpression\RegularExpression\obj\Debug\RegularExpression.csproj.GenerateResource.Cache
+D:\GitRepo\RegularExpression-Repo\RegularExpression\RegularExpression\obj\Debug\RegularExpression.exe
+D:\GitRepo\RegularExpression-Repo\RegularExpression\RegularExpression\obj\Debug\RegularExpression.pdb
